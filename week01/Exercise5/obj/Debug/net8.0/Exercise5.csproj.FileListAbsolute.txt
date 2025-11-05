@@ -1,0 +1,15 @@
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\bin\Debug\net8.0\Exercise5.exe
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\bin\Debug\net8.0\Exercise5.deps.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\bin\Debug\net8.0\Exercise5.runtimeconfig.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\bin\Debug\net8.0\Exercise5.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\bin\Debug\net8.0\Exercise5.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfoInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfo.cs
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.csproj.CoreCompileInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.sourcelink.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\refint\Exercise5.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\Exercise5.genruntimeconfig.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week01\Exercise5\obj\Debug\net8.0\ref\Exercise5.dll
