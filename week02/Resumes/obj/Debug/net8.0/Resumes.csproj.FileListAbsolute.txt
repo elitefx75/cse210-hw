@@ -1,0 +1,15 @@
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\bin\Debug\net8.0\Resumes.exe
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\bin\Debug\net8.0\Resumes.deps.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\bin\Debug\net8.0\Resumes.runtimeconfig.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\bin\Debug\net8.0\Resumes.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\bin\Debug\net8.0\Resumes.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfoInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfo.cs
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.csproj.CoreCompileInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.sourcelink.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\refint\Resumes.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\Resumes.genruntimeconfig.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week02\Resumes\obj\Debug\net8.0\ref\Resumes.dll

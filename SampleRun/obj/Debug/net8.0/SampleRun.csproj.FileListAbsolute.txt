@@ -1,0 +1,15 @@
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\bin\Debug\net8.0\SampleRun.exe
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\bin\Debug\net8.0\SampleRun.deps.json
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\bin\Debug\net8.0\SampleRun.runtimeconfig.json
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\bin\Debug\net8.0\SampleRun.dll
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\bin\Debug\net8.0\SampleRun.pdb
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.AssemblyInfoInputs.cache
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.AssemblyInfo.cs
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.csproj.CoreCompileInputs.cache
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.sourcelink.json
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.dll
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\refint\SampleRun.dll
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.pdb
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\SampleRun.genruntimeconfig.cache
+C:\Users\ELITE\OneDrive\Documents\cse210-hw\SampleRun\obj\Debug\net8.0\ref\SampleRun.dll
