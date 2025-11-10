@@ -22,7 +22,6 @@ namespace JournalApp
 
                 if (choice == "1")
                 {
-                    // Journal handles prompt + entry creation internally
                     theJournal.AddEntry();
                 }
                 else if (choice == "2")
