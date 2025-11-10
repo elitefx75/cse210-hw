@@ -1,31 +1,55 @@
 using System;
 
-class Journal
+namespace JournalApp
 {
-    public void AddEntry(string text)
+    class Program
     {
-        Console.WriteLine($"Entry added: {text}");
-    }
-}
+        static void Main(string[] args)
+        {
+            Journal theJournal = new Journal();
 
-class Entry
-{
-    public string Content { get; set; } = "Default entry text";
+            string choice = "";
+            while (choice != "5")
+            {
+                Console.WriteLine("\nJournal Menu:");
+                Console.WriteLine("1. Write a new entry");
+                Console.WriteLine("2. Display the journal");
+                Console.WriteLine("3. Save the journal to a file");
+                Console.WriteLine("4. Load the journal from a file");
+                Console.WriteLine("5. Quit");
+                Console.Write("Choose an option: ");
+                choice = Console.ReadLine();
 
-    public void Display()
-    {
-        Console.WriteLine($"Entry: {Content}");
-    }
-}
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        Journal theJournal = new Journal();
-        Entry anEntry = new Entry();
-        anEntry.Display();
-
-        Console.WriteLine("Hello World! This is the Journal Project.");
+                if (choice == "1")
+                {
+                    // Journal handles prompt + entry creation internally
+                    theJournal.AddEntry();
+                }
+                else if (choice == "2")
+                {
+                    theJournal.DisplayEntries();
+                }
+                else if (choice == "3")
+                {
+                    Console.Write("Enter filename: ");
+                    string filename = Console.ReadLine();
+                    theJournal.Save(filename);
+                }
+                else if (choice == "4")
+                {
+                    Console.Write("Enter filename: ");
+                    string filename = Console.ReadLine();
+                    theJournal.Load(filename);
+                }
+                else if (choice == "5")
+                {
+                    Console.WriteLine("Goodbye! Thanks for journaling today.");
+                }
+                else
+                {
+                    Console.WriteLine("Invalid choice. Please select 1–5.");
+                }
+            }
+        }
     }
 }
