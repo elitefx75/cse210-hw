@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
+    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
+    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectUniqueName": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "projectName": "ScriptureMemorizer",
-        "projectPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "packagesPath": "C:\\Users\\ELITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\obj\\",
+        "outputPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week03\\ScriptureMemorizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
