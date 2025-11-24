@@ -1,0 +1,15 @@
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.exe
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.deps.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.runtimeconfig.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfoInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfo.cs
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.csproj.CoreCompileInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.sourcelink.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\refint\YouTubeVideos.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.genruntimeconfig.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\YouTubeVideos\obj\Debug\net8.0\ref\YouTubeVideos.dll
