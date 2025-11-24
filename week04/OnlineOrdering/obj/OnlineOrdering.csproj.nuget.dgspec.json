@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj": {}
+    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj": {
+    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
+        "projectUniqueName": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
         "projectName": "OnlineOrdering",
-        "projectPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
+        "projectPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
         "packagesPath": "C:\\Users\\ELITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\obj\\",
+        "outputPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\OnlineOrdering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELITE\\AppData\\Roaming\\NuGet\\NuGet.Config"

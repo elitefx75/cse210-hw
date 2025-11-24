@@ -1,0 +1,15 @@
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.exe
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.deps.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.runtimeconfig.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfoInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfo.cs
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.sourcelink.json
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\refint\OnlineOrdering.dll
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.pdb
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.genruntimeconfig.cache
+c:\Users\ELITE\OneDrive\Documents\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\ref\OnlineOrdering.dll
