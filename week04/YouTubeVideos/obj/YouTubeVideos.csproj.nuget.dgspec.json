@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {}
+    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {
+    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
+        "projectUniqueName": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
         "projectName": "YouTubeVideos",
-        "projectPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
+        "projectPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
         "packagesPath": "C:\\Users\\ELITE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\obj\\",
+        "outputPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week04\\YouTubeVideos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
