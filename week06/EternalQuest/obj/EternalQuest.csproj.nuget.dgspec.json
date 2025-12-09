@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj": {}
+    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj": {
+    "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj",
+        "projectUniqueName": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj",
         "projectName": "EternalQuest",
-        "projectPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj",
+        "projectPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\EternalQuest.csproj",
         "packagesPath": "C:\\Users\\ELITE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\obj\\",
+        "outputPath": "C:\\Users\\ELITE\\OneDrive\\Documents\\cse210-hw\\week06\\EternalQuest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
